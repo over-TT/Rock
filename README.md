@@ -3,7 +3,7 @@
 Simple 3D printed RC car with a brushless drone motor. Drive it from your phone over WiFi.
 
 <p align="center">
-  <img src="docs/img/hero.jpg" alt="Rock RC car" width="400">
+  <img src="docs/img/hero.jpg" alt="Rock RC car" width="500">
 </p>
 ---
 
@@ -11,7 +11,7 @@ Simple 3D printed RC car with a brushless drone motor. Drive it from your phone 
 
 - `firmware/controller/` — controller code
 - `firmware/car/` — car code
-- `cad/` — STL and STEP
+- `cad/` — 3mf files to print
 
 CAD on MakerWorld: TBD
 
