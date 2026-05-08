@@ -14,10 +14,9 @@ Servo esc;
 Servo steeringServo;
 
 // ===== PINS =====
-// GPIO numbers, not silkscreen pin numbers. On the boards used here
-// (ESP32-WROOM-style dev kits) GPIO 9 / 10 are exposed as standard
-// PWM-capable pins. If you flash this on a XIAO ESP32-S3, ESP32-C3,
-// or another variant, double-check your board's pinout before wiring.
+// These pins are for the board used in this build.
+// Change them if using a different ESP32 board.
+// Always check the actual GPIO pinout before wiring.
 const int ESC_PIN = 9;
 const int SERVO_PIN = 10;
 

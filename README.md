@@ -2,8 +2,9 @@
 
 Simple 3D printed RC car with a brushless drone motor. Drive it from your phone over WiFi.
 
-![Rock](docs/img/hero.jpg)
-
+<p align="center">
+  <img src="docs/img/hero.jpg" alt="Rock RC car" width="400">
+</p>
 ---
 
 ## Repo
